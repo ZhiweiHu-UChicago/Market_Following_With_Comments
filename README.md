@@ -1,6 +1,6 @@
 ### Market Following With Comments
 #### Zhiwei Hu, The University of Chicago, Ms in Financial Mathematics
-This place is for stroing my market following records and also some comments on the market
+This place is for storing my market following records and also some comments on the market
 
 I am trying my best to keep it updated weekly
 
